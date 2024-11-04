@@ -1,0 +1,15 @@
+.footer-container{
+    text-align: center;
+    color: red;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-container p {
+    margin: 0;
+    padding: 15px 0;
+}

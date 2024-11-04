@@ -1,0 +1,34 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    background-color: #111;
+    color: #fff;
+}
+
+.gruop-btn {
+    display: flex;
+    gap: 10px; 
+}
+
+.gruop-btn button {
+    width: 100px;
+    font-size: 18px;
+    height: 35px;
+    border-radius: 15px;
+    border:none;
+    background-color: #666;
+    color: #fff;
+}
+
+.gruop-btn button:hover {
+    box-shadow: #f0ebeb 0 0 10px;
+    border: 1px solid #333;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
